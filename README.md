@@ -1,5 +1,9 @@
 # Unit 17 | Assignment - Visualizing Data with Leaflet
 
+## Solved Homework
+
+![1-Logo](Solved_HW.png)
+
 ## Background
 
 ![1-Logo](images/1-Logo.png)
